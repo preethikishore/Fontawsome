@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="city">&#xf64f;</string>
+    <string name="country">&#xf024;</string>
+    <string name="globe">&#xf0ac;</string>
+
+</resources>
